@@ -3,7 +3,9 @@ We are interested here in the numerical side of the isoperimetric problem for po
 The codes are written in Python and available in the file "Python_Isoperimetric_Gradient_Descent.md".
 
 The main theoretical result is:
+
 Theorem :
+
    Let $n\geq 1$ and $Z$ a polygon with $n$ sides, we have 
     $$\frac{P(Z)^{2}}{V(Z)} \geqslant 4n\tan{\frac{\pi}{n}}.$$
      With equality if and only if $Z$ is a regular polygon.
