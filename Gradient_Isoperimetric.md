@@ -15,10 +15,11 @@ Proof of this theorem can be found in "V.Blasjo The Isoperimetric Problem,
 The American Mathematical Monthly, 112:6, 526-566."
 
 We know by the previous theorem that for $Z$ a polygon with $n$ sides, we have the following inequality : 
+
 $$\frac{P(Z)^{2}}{V(Z)}\geq 4n\tan{\frac{\pi}{n}}:=m_{\star}(n)$$
 
-The complexity of the first algorithm is not too big.
 Proposition:
+
 If we denote $d$ the number of variables in the function we are trying to minimize and $I$ the number of iterations. 
 Then,
     The complexity of the gradient descent algorithm is $$O\left(d*I\right).$$
