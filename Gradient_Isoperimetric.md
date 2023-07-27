@@ -1,8 +1,8 @@
 # Gabriel-Singer
 We are interested here in the numerical side of the isoperimetric problem for polygons. We deal with the particular case of the triangle, the quadrilateral, and the pentagon. 
 The codes are written in Python and available in the file "Python_Isoperimetric_Gradient_Descent.md".
-The main result is:
 
+The main theoretical result is:
 Theorem :
    Let $n\geq 1$ and $Z$ a polygon with $n$ sides, we have 
     $$\frac{P(Z)^{2}}{V(Z)} \geqslant 4n\tan{\frac{\pi}{n}}.$$
